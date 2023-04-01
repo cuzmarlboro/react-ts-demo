@@ -1,3 +1,11 @@
+###
+ # @Author: 何泽颖 hezeying@autowise.ai
+ # @Date: 2023-04-01 19:47:54
+ # @LastEditors: 何泽颖 hezeying@autowise.ai
+ # @LastEditTime: 2023-04-01 19:49:34
+ # @FilePath: /react-ts-demo/.husky/pre-commit
+ # @Description: 
+### 
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
